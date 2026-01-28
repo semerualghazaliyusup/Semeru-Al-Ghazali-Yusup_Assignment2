@@ -1,0 +1,858 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-01-26T18:31:15Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/14984624",
+        "leisure": "park",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6554929,
+          -6.1294757
+        ]
+      },
+      "id": "relation/14984624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/17904673",
+        "leisure": "park",
+        "name": "Escala Park",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.657098,
+          -6.2227796
+        ]
+      },
+      "id": "relation/17904673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/31950578",
+        "created_by": "Merkaartor 0.13",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7143718,
+          -6.185894
+        ]
+      },
+      "id": "way/31950578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/368697855",
+        "leisure": "park",
+        "name": "Taman PGP",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6943325,
+          -6.216036
+        ]
+      },
+      "id": "way/368697855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/368699176",
+        "leisure": "park",
+        "name": "Hutan Kota",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6915604,
+          -6.2208138
+        ]
+      },
+      "id": "way/368699176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/368831775",
+        "leisure": "park",
+        "name": "Taman TK",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6945176,
+          -6.2130775
+        ]
+      },
+      "id": "way/368831775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/555004536",
+        "leisure": "park",
+        "name": "Ciledug Indah 2 park",
+        "surface": "grass",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6988659,
+          -6.2177059
+        ]
+      },
+      "id": "way/555004536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/555005077",
+        "leisure": "park",
+        "name": "Yadika Park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7076895,
+          -6.2214651
+        ]
+      },
+      "id": "way/555005077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/555005856",
+        "addr:city": "Tangerang",
+        "addr:postcode": "15154",
+        "addr:street": "Jalan Taman Asri Utama",
+        "leisure": "park",
+        "name": "Taman Asri Park",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7318004,
+          -6.2451633
+        ]
+      },
+      "id": "way/555005856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/555028935",
+        "leisure": "park",
+        "name": "Taman Soebagjo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7169197,
+          -6.2341927
+        ]
+      },
+      "id": "way/555028935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/555030572",
+        "leisure": "park",
+        "name": "Taman Tumpang",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6930808,
+          -6.22045
+        ]
+      },
+      "id": "way/555030572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/555863256",
+        "leisure": "park",
+        "name": "Rayhan's Park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7340971,
+          -6.2257764
+        ]
+      },
+      "id": "way/555863256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/556901329",
+        "leisure": "park",
+        "name": "Taman Beo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6919044,
+          -6.2182429
+        ]
+      },
+      "id": "way/556901329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/557431337",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6323687,
+          -6.1606287
+        ]
+      },
+      "id": "way/557431337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/641473616",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6338541,
+          -6.1993488
+        ]
+      },
+      "id": "way/641473616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/746340985",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6773041,
+          -6.1484362
+        ]
+      },
+      "id": "way/746340985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/746340986",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6774642,
+          -6.1484608
+        ]
+      },
+      "id": "way/746340986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/747470207",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6616705,
+          -6.2202751
+        ]
+      },
+      "id": "way/747470207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/829973502",
+        "leisure": "park",
+        "name": "Taman Kepik",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6533356,
+          -6.2268407
+        ]
+      },
+      "id": "way/829973502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/844275781",
+        "leisure": "park",
+        "name": "Taman Cluster Monaco",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6477029,
+          -6.20573
+        ]
+      },
+      "id": "way/844275781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/844280784",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6483748,
+          -6.2052668
+        ]
+      },
+      "id": "way/844280784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/844280785",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6477958,
+          -6.2059728
+        ]
+      },
+      "id": "way/844280785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/844295795",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6477898,
+          -6.2063919
+        ]
+      },
+      "id": "way/844295795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/844295797",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6475636,
+          -6.2062766
+        ]
+      },
+      "id": "way/844295797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/844310754",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6477192,
+          -6.2066106
+        ]
+      },
+      "id": "way/844310754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/844469868",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6480862,
+          -6.2065182
+        ]
+      },
+      "id": "way/844469868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/844470766",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.647171,
+          -6.2057423
+        ]
+      },
+      "id": "way/844470766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/844470767",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6468276,
+          -6.2064005
+        ]
+      },
+      "id": "way/844470767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/844470768",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6461888,
+          -6.2062294
+        ]
+      },
+      "id": "way/844470768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/844470769",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6459034,
+          -6.2060562
+        ]
+      },
+      "id": "way/844470769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/844470770",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6461638,
+          -6.2059068
+        ]
+      },
+      "id": "way/844470770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/844470771",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6464912,
+          -6.2047671
+        ]
+      },
+      "id": "way/844470771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/848458965",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6550973,
+          -6.1939287
+        ]
+      },
+      "id": "way/848458965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/852685132",
+        "alt_name": "Taman Kupu-Kupu Kelinci",
+        "leisure": "park",
+        "name": "Taman Kunci",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6313917,
+          -6.1954624
+        ]
+      },
+      "id": "way/852685132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/852685135",
+        "leisure": "park",
+        "name": "Taman Potret",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6323053,
+          -6.1951082
+        ]
+      },
+      "id": "way/852685135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/987249802",
+        "leisure": "park",
+        "name": "Tanam Flamboyan",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7237478,
+          -6.2254572
+        ]
+      },
+      "id": "way/987249802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1044421662",
+        "leisure": "park",
+        "name": "Alun-alun Pinang Kota Tangerang",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6715556,
+          -6.230583
+        ]
+      },
+      "id": "way/1044421662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1090450386",
+        "leisure": "park",
+        "name": "Taman Balai Kota Tangerang",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.640304,
+          -6.1699416
+        ]
+      },
+      "id": "way/1090450386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1123156943",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6533567,
+          -6.1241659
+        ]
+      },
+      "id": "way/1123156943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1148733881",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7041728,
+          -6.2409817
+        ]
+      },
+      "id": "way/1148733881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1184374883",
+        "leisure": "park",
+        "name": "TAMAN ARCHERY RT 04",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7072685,
+          -6.2501247
+        ]
+      },
+      "id": "way/1184374883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1196006865",
+        "leisure": "park",
+        "name": "Taman Gajah Tunggal",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6329293,
+          -6.1912931
+        ]
+      },
+      "id": "way/1196006865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1196006866",
+        "leisure": "park",
+        "name": "Taman Bambu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6322057,
+          -6.1941633
+        ]
+      },
+      "id": "way/1196006866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1376909602",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6295556,
+          -6.1774592
+        ]
+      },
+      "id": "way/1376909602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1385346614",
+        "leisure": "park",
+        "name": "Taman KiTangerang",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6309418,
+          -6.1952463
+        ]
+      },
+      "id": "way/1385346614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1386543279",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6313189,
+          -6.2135685
+        ]
+      },
+      "id": "way/1386543279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1443847883",
+        "leisure": "park",
+        "name": "Alun-Alun Kecamatan Periuk",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.5943611,
+          -6.1699203
+        ]
+      },
+      "id": "way/1443847883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6728689333",
+        "leisure": "park",
+        "name": "Taman pramuka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6364654,
+          -6.1678067
+        ]
+      },
+      "id": "node/6728689333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6731911291",
+        "leisure": "park",
+        "name": "Taman Burung Perak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.63842,
+          -6.1889495
+        ]
+      },
+      "id": "node/6731911291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7875648333",
+        "leisure": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.642427,
+          -6.2019649
+        ]
+      },
+      "id": "node/7875648333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8270142020",
+        "addr:city": "tangerang",
+        "addr:street": "Jalan Merdeka",
+        "leisure": "park",
+        "name": "natura residence play grounds",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6178545,
+          -6.1832525
+        ]
+      },
+      "id": "node/8270142020"
+    }
+  ]
+}
